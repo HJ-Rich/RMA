@@ -1,0 +1,14 @@
+{
+    "name": "RMA",
+    "description": "Remember My Application",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "RMA",
+        "default_popup": "index.html",
+        "default_icon": "RMA.png"
+    }
+}
