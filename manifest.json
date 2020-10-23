@@ -2,16 +2,16 @@
     "name": "RMA",
     "description": "Remember My Application",
     "version": "1.0",
-    //Permissions : Modify an extension's permissions.
     "permissions": [
         "storage"
     ],
-    //Content Scripts : Run JavaScript code in the context of web pages.
-    //match 패턴에 잡히는 주소에 접속했을 때,
-    //js에 선언된 javascript를 웹문서 맥락에서 작동시킨다.
     "content_scripts": [
         {
             "matches": [
+                "http://www.work.go.kr/*",
+                "http://www.saramin.co.kr/*",
+                "http://www.jobkorea.co.kr/*",
+                "http://www.incruit.com/*",
                 "https://www.work.go.kr/*",
                 "https://www.saramin.co.kr/*",
                 "https://www.jobkorea.co.kr/*",
@@ -23,9 +23,9 @@
         }
     ],
     "manifest_version": 2,
-    //Browser Actions : Add an icon, tooltip, badge, and popup to the toolbar.
     "browser_action": {
         "default_title": "RMA",
-        "default_icon": "RMA.png"
+        "default_icon": "RMA.png",
+        "default_popup": "index.html"
     }
 }
