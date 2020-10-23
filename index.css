@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div#header {
+    width:90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div#popupWrapper {
+    width:200px;
+    height:250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+button {
+    width:90%;
+    height:18%;
+    margin: 0 auto;
+}
+
+img#rmaimg, img#githubimg {
+    width:20%;
+}
