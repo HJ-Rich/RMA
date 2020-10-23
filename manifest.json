@@ -11,11 +11,11 @@
                 "http://www.work.go.kr/*",
                 "http://www.saramin.co.kr/*",
                 "http://www.jobkorea.co.kr/*",
-                "http://www.incruit.com/*",
+                "http://job.incruit.com/*",
                 "https://www.work.go.kr/*",
                 "https://www.saramin.co.kr/*",
                 "https://www.jobkorea.co.kr/*",
-                "https://www.incruit.com/*"
+                "https://job.incruit.com/*"
             ],
             "js": [
                 "common.js"

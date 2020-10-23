@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // 값이 storage에 이미 존재하는지 체크
             let target = this;
+            target.value = target.value.trim();
             chrome.storage.sync.get(null, function (result) {
                 let existCheck = false;
                 for (const [key, value] of Object.entries(result)) {
