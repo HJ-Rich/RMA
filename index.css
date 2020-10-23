@@ -27,3 +27,7 @@ button, input {
     width:80%;
     margin: 0 auto;
 }
+
+input::placeholder {
+    text-align: center;
+}

@@ -10,4 +10,4 @@ RMA는 이미 지원한 회사, 지원하지 않을 회사 등을 보기 쉽게 
 
 지원사이트 : 워크넷, 사람인, 잡코리아, 인크루트
 
-<img src="https://github.com/HJ-Rich/RMA/blob/main/view.png?raw=true">
+<img src="https://i.imgur.com/gWuEx8L.png">
