@@ -1,5 +1,4 @@
 # RMA : Remember My Application
-<hr>
 <p>
 RMA는 회사명으로 필터를 설정하면, 해당 회사의 공고를 흐리게 처리해주는 크롬 확장 프로그램입니다.
 이미 지원한 회사나, 지원하지 않을 회사 등을 설정해두면 편리합니다.
@@ -18,12 +17,16 @@ RMA는 회사명으로 필터를 설정하면, 해당 회사의 공고를 흐리
 </p>
 <p>
 지원사이트 : 워크넷, 사람인, 잡코리아, 인크루트
+  
 Contact : ztzy1907@gmail.com
+
 Github : github.com/HJ-Rich/RMA
+
 제작기간 : 2020.10.23 ~ 2020.10.24
+
 2020.10.24 Ver 1.0.0 배포
+
 </p>
 
-<video src="https://www.youtube.com/watch?v=0SoramjSeog">
-youtube : https://www.youtube.com/watch?v=0SoramjSeog<br>
+시연영상 : https://www.youtube.com/watch?v=0SoramjSeog<br><br>
 <img src="https://i.imgur.com/gWuEx8L.png">
