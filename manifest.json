@@ -1,7 +1,10 @@
 {
     "name": "RMA",
     "description": "Remember My Application",
-    "version": "1.0",
+    "version": "1.0.0",
+    "icons": {
+        "128": "128.png"
+    },
     "permissions": [
         "storage"
     ],
